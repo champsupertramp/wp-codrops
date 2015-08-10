@@ -2,13 +2,14 @@
 Codrops awesome tutorials integrated with WordPress!
 
 ###Features:
-- Text Styles and Hover Effects [Demo](http://tympanus.net/Development/TextStylesHoverEffects/) | [Credits](https://github.com/codrops/TextStylesHoverEffects#inspiration-for-text-styles-and-hover-effects)
+- Text Styles and Hover Effects ([Demo](http://tympanus.net/Development/TextStylesHoverEffects/)) | ([Credits](https://github.com/codrops/TextStylesHoverEffects#inspiration-for-text-styles-and-hover-effects))
 
 ###Coming Soon:
 - MultiLevelPushMenu
 - SimpleDropDownEffects
 - ZoomSlider
 - DialogEffects
+
 Write your feature request [here](https://github.com/champsupertramp/wp-codrops/issues).
 
 ###Credits
