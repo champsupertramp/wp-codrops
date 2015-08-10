@@ -13,7 +13,8 @@ Codrops awesome tutorials integrated with WordPress!
 Write your feature request [here](https://github.com/champsupertramp/wp-codrops/issues).
 
 ###Credits
-Thank you [Codrops](https://github.com/codrops) for all the tutorials! 
+- [Codrops](https://github.com/codrops), thank you for all the tutorials! 
+- Powered by [Skelet Framework](https://github.com/pressapps/skelet/)
 
 ###License
 WP Codrops is **free** to use both personal and commercial. If you used commercial, **please credit**.
